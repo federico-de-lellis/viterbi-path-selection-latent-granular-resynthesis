@@ -1,0 +1,23 @@
+# Core deep learning
+torch>=2.1.0
+torchaudio>=2.1.0
+
+# Music2Latent codec
+music2latent
+
+# Audio I/O
+soundfile>=0.12.1
+librosa>=0.10.0
+numpy>=1.24.0
+
+# Notebook
+jupyter>=1.0.0
+ipython>=8.0.0
+matplotlib>=3.7.0
+
+# Latent space visualisation (UMAP preferred, PCA fallback via sklearn)
+umap-learn>=0.5.3
+scikit-learn>=1.3.0
+
+# Optional: faster pitch shifting
+# scipy>=1.11.0
