@@ -1,5 +1,7 @@
 # Temporal Coherence via Viterbi Path Selection in Latent Granular Resynthesis
 
+![Latent Granular Resynthesis Pipeline](lgr-pipeline.png)
+
 Extension of *Tokui & Baker, ISMIR 2025* with:
 - Viterbi grain path selection for temporal coherence
 - Soft latent blending ablation
