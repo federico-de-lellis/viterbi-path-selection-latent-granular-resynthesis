@@ -8,6 +8,8 @@ Extension of *Tokui & Baker, ISMIR 2025* with:
 - Quantitative evaluation (RMS envelope correlation)
 - UMAP/PCA latent space visualisation
 
+The accompanying paper is included in this repository: [viterbi-path-selection-latent-granular-resynthesis.pdf](https://github.com/federico-de-lellis/viterbi-path-selection-latent-granular-resynthesis/blob/main/viterbi-path-selection-latent-granular-resynthesis.pdf)
+
 ## Background
 
 The original paper ([Tokui & Baker, ISMIR 2025](https://github.com/naotokui/latentgranular/))
